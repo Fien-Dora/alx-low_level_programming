@@ -4,18 +4,14 @@
 *Reaturn:void
 */
 void print_alphabet(void)
-{  
-char c;
+{
+char ch;
 int i = 0;
-while (i < 10)
+ch = 'a';
+while (ch <= 'z')
 {
-c = 'a';
-while (c <= 'z')
-{
-_putchar(c);
-c++;
-}
-_putchar('\n');
+_putchar(ch);
 i++;
 }
+_putchar('\n');
 }
