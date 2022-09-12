@@ -1,10 +1,9 @@
 #include <stdio.h>
 /**
- * main - print numbers of base 10 starting from zero
- * and ends with a new line
- * Return : Always 0 (Success)
+ * main - prints numbers from 0 to 10
+ * followed by a new line
+ * Return: Always 0 (Success)
  */
-
 int main(void)
 {
 	int n;
