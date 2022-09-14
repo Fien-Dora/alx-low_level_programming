@@ -3,7 +3,7 @@
 /**
  * print_alphabet_x10 - print the alphabet 10 times and ends with a new line
  */
-void print_alphabet_x10(void);
+void print_alphabet_x10(void)
 {
 	char i;
 	int j;
