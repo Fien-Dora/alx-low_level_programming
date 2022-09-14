@@ -1,11 +1,8 @@
 #include "main.h"
 
 /**
- * main - print the alphabet 
- * and ends with a new line 
- * Return: Always 0 (Success)
+ * print_alphabet - print the alphabet and ends with a new line
  */
-
 void print_alphabet(void)
 {
 	char i;
