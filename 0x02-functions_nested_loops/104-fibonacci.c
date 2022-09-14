@@ -20,9 +20,6 @@ int main(void)
 		k = next;
 		printf("%d, ", next);
 		printf(" ");
-
-		if (next >= 80 && next <= 98)
-			break;
 	}
 	return (0);
 }
