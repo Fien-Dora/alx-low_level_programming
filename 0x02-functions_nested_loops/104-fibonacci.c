@@ -18,7 +18,7 @@ int main(void)
 		next = j + k;
 		j = k;
 		k = next;
-		printf("%d, ", next);
+		printf("%d,", next);
 		printf(" ");
 	}
 	return (0);
